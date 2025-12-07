@@ -2,8 +2,8 @@
 
 ![Go Version](https://img.shields.io/badge/Go-1.22.2-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Build Status](https://github.com/ceckles/GO-Airport/actions/workflows/build.yml/badge.svg)
-![Test Status](https://github.com/ceckles/GO-Airport/actions/workflows/test.yml/badge.svg)
+![Build Status](https://github.com/ceckles/GO-Airport/workflows/Build/badge.svg)
+![Test Status](https://github.com/ceckles/GO-Airport/workflows/Test/badge.svg)
 
 A Go-based airport management system that simulates airport operations including planes, pilots, crew, passengers, and airports. this was a project I did while in a Code bootcamp back in 2021, I wanted to port it to Go.
 
