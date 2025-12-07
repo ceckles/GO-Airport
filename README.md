@@ -2,8 +2,8 @@
 
 ![Go Version](https://img.shields.io/badge/Go-1.22.2-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
-![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)
+![Build Status](https://github.com/chad/GO-AirPort/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/chad/GO-AirPort/actions/workflows/ci.yml/badge.svg?branch=main)
 
 A Go-based airport management system that simulates airport operations including planes, pilots, crew, passengers, and airports. this was a project I did while in a Code bootcamp back in 2021, I wanted to port it to Go.
 
@@ -12,6 +12,8 @@ A Go-based airport management system that simulates airport operations including
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-Go%20Testing-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+> **Note**: The Build and Test badges above are dynamically updated by GitHub Actions. They reflect the actual status of the latest CI/CD pipeline runs.
 
 ## Features
 
